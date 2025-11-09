@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\005Switch\bin\Debug\netcoreapp2.1\005Switch.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\005Switch\bin\Debug\netcoreapp2.1\005Switch.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\005Switch\bin\Debug\netcoreapp2.1\005Switch.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\005Switch\bin\Debug\netcoreapp2.1\005Switch.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\005Switch\bin\Debug\netcoreapp2.1\005Switch.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\005Switch\obj\Debug\netcoreapp2.1\005Switch.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\005Switch\obj\Debug\netcoreapp2.1\005Switch.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\005Switch\obj\Debug\netcoreapp2.1\005Switch.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\005Switch\obj\Debug\netcoreapp2.1\005Switch.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\005Switch\obj\Debug\netcoreapp2.1\005Switch.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\005Switch\obj\Debug\netcoreapp2.1\005Switch.pdb

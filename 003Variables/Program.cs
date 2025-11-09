@@ -25,7 +25,7 @@ namespace VariablesDemo
             // DATETIME
             Console.Write("Enter your date of birth (e.g. 12/03/2010): ");
             DateTime dob = DateTime.Parse(Console.ReadLine());
-            Console.WriteLine("Your date of birth is: " + dob.ToShortDateString());
+            Console.WriteLine("Your date of birth is: " + dob);
 
             // BOOL
             Console.Write("Are you a student? (true/false): ");
@@ -33,10 +33,10 @@ namespace VariablesDemo
             Console.WriteLine("Student status: " + isStudent);
 
             // INT.PARSE demonstration
-            Console.Write("Enter your current year (as a number): ");
-            string yearInput = Console.ReadLine();
-            int currentYear = int.Parse(yearInput);
-            Console.WriteLine("Next year will be: " + (currentYear + 1));
+            Console.Write("Enter your current grade (as a number): ");
+            string gradeInput = Console.ReadLine();
+            int currentGrade = int.Parse(gradeInput);
+            Console.WriteLine("Next year will be: " + (currentGrade + 1));
 
             Console.WriteLine("\n--- Summary ---");
             Console.WriteLine("Name: " + name);
@@ -44,7 +44,7 @@ namespace VariablesDemo
             Console.WriteLine("Height: " + height);
             Console.WriteLine("DOB: " + dob.ToShortDateString());
             Console.WriteLine("Student: " + isStudent);
-            Console.WriteLine("Next Year: " + (currentYear + 1));
+            Console.WriteLine("Next Year: " + (currentGrade + 1));
         }
     }
 }
