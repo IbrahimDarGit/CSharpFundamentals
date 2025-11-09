@@ -1,0 +1,42 @@
+# ===============================================
+#  CSharpFundamentals .gitignore
+#  Purpose: Keep repository clean of build + IDE files
+# ===============================================
+
+# --- Build output ---
+bin/
+obj/
+
+# --- Visual Studio / VS Code folders ---
+.vs/
+.vscode/
+
+# --- User-specific or environment files ---
+*.user
+*.suo
+*.pdb
+*.cache
+*.log
+
+# --- Temporary files ---
+*.tmp
+
+# --- JSON files (rules section) ---
+# Ignore automatically generated .NET lock and asset files
+*.lock.json
+project.assets.json
+
+# Ignore sensitive or local configuration files
+secrets.json
+appsettings.Development.json
+
+# Keep JSON files that belong to your own project examples
+# e.g. person.json, settings.json, or data.json
+!person.json
+!settings.json
+!data.json
+
+# --- Miscellaneous ---
+*.bak
+*.old
+*.DS_Store
