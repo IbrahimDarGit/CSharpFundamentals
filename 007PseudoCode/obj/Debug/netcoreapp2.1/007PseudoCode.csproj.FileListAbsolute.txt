@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\007PseudoCode\bin\Debug\netcoreapp2.1\007PseudoCode.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\007PseudoCode\bin\Debug\netcoreapp2.1\007PseudoCode.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\007PseudoCode\bin\Debug\netcoreapp2.1\007PseudoCode.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\007PseudoCode\bin\Debug\netcoreapp2.1\007PseudoCode.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\007PseudoCode\bin\Debug\netcoreapp2.1\007PseudoCode.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\007PseudoCode\obj\Debug\netcoreapp2.1\007PseudoCode.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\007PseudoCode\obj\Debug\netcoreapp2.1\007PseudoCode.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\007PseudoCode\obj\Debug\netcoreapp2.1\007PseudoCode.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\007PseudoCode\obj\Debug\netcoreapp2.1\007PseudoCode.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\007PseudoCode\obj\Debug\netcoreapp2.1\007PseudoCode.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\007PseudoCode\obj\Debug\netcoreapp2.1\007PseudoCode.pdb
