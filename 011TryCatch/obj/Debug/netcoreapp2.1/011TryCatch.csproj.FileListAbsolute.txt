@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\011TryCatch\bin\Debug\netcoreapp2.1\011TryCatch.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\011TryCatch\bin\Debug\netcoreapp2.1\011TryCatch.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\011TryCatch\bin\Debug\netcoreapp2.1\011TryCatch.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\011TryCatch\bin\Debug\netcoreapp2.1\011TryCatch.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\011TryCatch\bin\Debug\netcoreapp2.1\011TryCatch.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\011TryCatch\obj\Debug\netcoreapp2.1\011TryCatch.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\011TryCatch\obj\Debug\netcoreapp2.1\011TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\011TryCatch\obj\Debug\netcoreapp2.1\011TryCatch.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\011TryCatch\obj\Debug\netcoreapp2.1\011TryCatch.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\011TryCatch\obj\Debug\netcoreapp2.1\011TryCatch.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\011TryCatch\obj\Debug\netcoreapp2.1\011TryCatch.pdb
