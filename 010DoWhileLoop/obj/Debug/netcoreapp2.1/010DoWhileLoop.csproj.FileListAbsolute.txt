@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\010DoWhileLoop\obj\Debug\netcoreapp2.1\010DoWhileLoop.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\010DoWhileLoop\obj\Debug\netcoreapp2.1\010DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\010DoWhileLoop\obj\Debug\netcoreapp2.1\010DoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\010DoWhileLoop\obj\Debug\netcoreapp2.1\010DoWhileLoop.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\010DoWhileLoop\bin\Debug\netcoreapp2.1\010DoWhileLoop.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\010DoWhileLoop\bin\Debug\netcoreapp2.1\010DoWhileLoop.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\010DoWhileLoop\bin\Debug\netcoreapp2.1\010DoWhileLoop.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\010DoWhileLoop\bin\Debug\netcoreapp2.1\010DoWhileLoop.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\010DoWhileLoop\bin\Debug\netcoreapp2.1\010DoWhileLoop.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\010DoWhileLoop\obj\Debug\netcoreapp2.1\010DoWhileLoop.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\010DoWhileLoop\obj\Debug\netcoreapp2.1\010DoWhileLoop.pdb
