@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\009WhileLoop\bin\Debug\netcoreapp2.1\009WhileLoop.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\009WhileLoop\bin\Debug\netcoreapp2.1\009WhileLoop.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\009WhileLoop\bin\Debug\netcoreapp2.1\009WhileLoop.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\009WhileLoop\bin\Debug\netcoreapp2.1\009WhileLoop.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\009WhileLoop\bin\Debug\netcoreapp2.1\009WhileLoop.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\009WhileLoop\obj\Debug\netcoreapp2.1\009WhileLoop.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\009WhileLoop\obj\Debug\netcoreapp2.1\009WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\009WhileLoop\obj\Debug\netcoreapp2.1\009WhileLoop.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\009WhileLoop\obj\Debug\netcoreapp2.1\009WhileLoop.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\009WhileLoop\obj\Debug\netcoreapp2.1\009WhileLoop.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\009WhileLoop\obj\Debug\netcoreapp2.1\009WhileLoop.pdb
