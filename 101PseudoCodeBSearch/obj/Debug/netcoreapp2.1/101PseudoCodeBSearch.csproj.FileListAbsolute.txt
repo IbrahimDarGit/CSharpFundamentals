@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeBSearch\obj\Debug\netcoreapp2.1\101PseudoCodeBSearch.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeBSearch\obj\Debug\netcoreapp2.1\101PseudoCodeBSearch.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeBSearch\obj\Debug\netcoreapp2.1\101PseudoCodeBSearch.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeBSearch\obj\Debug\netcoreapp2.1\101PseudoCodeBSearch.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeBSearch\bin\Debug\netcoreapp2.1\101PseudoCodeBSearch.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeBSearch\bin\Debug\netcoreapp2.1\101PseudoCodeBSearch.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeBSearch\bin\Debug\netcoreapp2.1\101PseudoCodeBSearch.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeBSearch\bin\Debug\netcoreapp2.1\101PseudoCodeBSearch.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeBSearch\bin\Debug\netcoreapp2.1\101PseudoCodeBSearch.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeBSearch\obj\Debug\netcoreapp2.1\101PseudoCodeBSearch.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeBSearch\obj\Debug\netcoreapp2.1\101PseudoCodeBSearch.pdb

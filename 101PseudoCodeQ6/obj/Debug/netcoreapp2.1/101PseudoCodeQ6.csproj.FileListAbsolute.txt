@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeQ6\bin\Debug\netcoreapp2.1\101PseudoCodeQ6.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeQ6\bin\Debug\netcoreapp2.1\101PseudoCodeQ6.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeQ6\bin\Debug\netcoreapp2.1\101PseudoCodeQ6.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeQ6\bin\Debug\netcoreapp2.1\101PseudoCodeQ6.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeQ6\bin\Debug\netcoreapp2.1\101PseudoCodeQ6.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeQ6\obj\Debug\netcoreapp2.1\101PseudoCodeQ6.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeQ6\obj\Debug\netcoreapp2.1\101PseudoCodeQ6.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeQ6\obj\Debug\netcoreapp2.1\101PseudoCodeQ6.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeQ6\obj\Debug\netcoreapp2.1\101PseudoCodeQ6.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeQ6\obj\Debug\netcoreapp2.1\101PseudoCodeQ6.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101PseudoCodeQ6\obj\Debug\netcoreapp2.1\101PseudoCodeQ6.pdb
