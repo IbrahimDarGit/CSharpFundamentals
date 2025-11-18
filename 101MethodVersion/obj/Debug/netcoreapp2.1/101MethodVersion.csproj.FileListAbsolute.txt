@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101MethodVersion\bin\Debug\netcoreapp2.1\101MethodVersion.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101MethodVersion\bin\Debug\netcoreapp2.1\101MethodVersion.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101MethodVersion\bin\Debug\netcoreapp2.1\101MethodVersion.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101MethodVersion\bin\Debug\netcoreapp2.1\101MethodVersion.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101MethodVersion\bin\Debug\netcoreapp2.1\101MethodVersion.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101MethodVersion\obj\Debug\netcoreapp2.1\101MethodVersion.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101MethodVersion\obj\Debug\netcoreapp2.1\101MethodVersion.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101MethodVersion\obj\Debug\netcoreapp2.1\101MethodVersion.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101MethodVersion\obj\Debug\netcoreapp2.1\101MethodVersion.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101MethodVersion\obj\Debug\netcoreapp2.1\101MethodVersion.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\101MethodVersion\obj\Debug\netcoreapp2.1\101MethodVersion.pdb
