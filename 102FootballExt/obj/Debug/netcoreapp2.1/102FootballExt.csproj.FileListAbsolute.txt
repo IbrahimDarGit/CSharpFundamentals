@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\102FootballExt\obj\Debug\netcoreapp2.1\102FootballExt.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\102FootballExt\obj\Debug\netcoreapp2.1\102FootballExt.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\102FootballExt\obj\Debug\netcoreapp2.1\102FootballExt.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\102FootballExt\obj\Debug\netcoreapp2.1\102FootballExt.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\102FootballExt\bin\Debug\netcoreapp2.1\102FootballExt.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\102FootballExt\bin\Debug\netcoreapp2.1\102FootballExt.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\102FootballExt\bin\Debug\netcoreapp2.1\102FootballExt.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\102FootballExt\bin\Debug\netcoreapp2.1\102FootballExt.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\102FootballExt\bin\Debug\netcoreapp2.1\102FootballExt.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\102FootballExt\obj\Debug\netcoreapp2.1\102FootballExt.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\102FootballExt\obj\Debug\netcoreapp2.1\102FootballExt.pdb
