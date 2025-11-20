@@ -82,7 +82,6 @@ namespace _102FootballExt
             Console.WriteLine("Time of purchase: " + DateTime.Now);  
             Console.WriteLine("=================================");
 
-            
         }      
     }
 }
