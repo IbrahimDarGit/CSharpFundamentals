@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\103PseudoMean\bin\Debug\netcoreapp2.1\103PseudoMean.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\103PseudoMean\bin\Debug\netcoreapp2.1\103PseudoMean.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\103PseudoMean\bin\Debug\netcoreapp2.1\103PseudoMean.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\103PseudoMean\bin\Debug\netcoreapp2.1\103PseudoMean.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\103PseudoMean\bin\Debug\netcoreapp2.1\103PseudoMean.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\103PseudoMean\obj\Debug\netcoreapp2.1\103PseudoMean.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\103PseudoMean\obj\Debug\netcoreapp2.1\103PseudoMean.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\103PseudoMean\obj\Debug\netcoreapp2.1\103PseudoMean.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\103PseudoMean\obj\Debug\netcoreapp2.1\103PseudoMean.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\103PseudoMean\obj\Debug\netcoreapp2.1\103PseudoMean.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\103PseudoMean\obj\Debug\netcoreapp2.1\103PseudoMean.pdb
