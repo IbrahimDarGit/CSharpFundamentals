@@ -1,0 +1,244 @@
+# =====================================================================
+#  UNIVERSAL .gitignore for Microsoft / .NET / Developer / Data Engineering stack
+#  Covers: Visual Studio, VS Code, SSIS, SSMS, Azure, Power BI, Python
+#  Recursively applies to all parent and child directories
+# =====================================================================
+
+# ---------------------------------------------------------------------
+# --- Build output (all depths) ---
+# ---------------------------------------------------------------------
+**/[Bb]in/
+**/[Oo]bj/
+**/[Dd]ebug/
+**/[Rr]elease/
+**/[Bb]ld/
+**/[Bb]uild/
+**/[Ll]og*/
+**/[Ll]ogs*/
+
+# ---------------------------------------------------------------------
+# --- IDE + Editor files ---
+# ---------------------------------------------------------------------
+# Visual Studio / VSCode
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.orig
+*.tmp
+*.bak
+
+# Rider, ReSharper, DotCover
+_ReSharper*/
+*.DotSettings.user
+*.userprefs
+
+# ---------------------------------------------------------------------
+# --- Packages, Restore, Dependencies ---
+# ---------------------------------------------------------------------
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Node / NPM / Yarn
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Python virtual envs
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+
+# ---------------------------------------------------------------------
+# --- Temporary, Cache, Logs ---
+# ---------------------------------------------------------------------
+*.cache
+**/*.cache
+*.tmp
+**/*.tmp
+*.temp
+**/*.temp
+*.log
+**/*.log
+*.trace
+**/*.trace
+*.dmp
+**/*.dmp
+*.bak
+**/*.bak
+*.backup
+**/*.backup
+*.swp
+**/*.swp
+*.old
+**/*.old
+*.orig
+**/*.orig
+
+# ---------------------------------------------------------------------
+# --- JSON / Config / Secret files ---
+# ---------------------------------------------------------------------
+*.lock.json
+**/*.lock.json
+project.assets.json
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+local.settings.json
+launchSettings.json
+.env
+.env.*
+*.key
+*.pem
+*.cer
+*.pfx
+*.publishsettings
+*.rdl.data
+
+# ---------------------------------------------------------------------
+# --- Database / SSMS / SSIS ---
+# ---------------------------------------------------------------------
+# SSIS & Integration Services
+*.dtproj.user
+*.ispac
+*.dtsx
+**/SSISDB/
+**/Integration Services Project*/
+*.dtsConfig
+bin/Deployment/
+
+# SQL / SSMS
+*.sqlproj.user
+*.dbmdl
+*.dacpac
+*.bacpac
+*.mdf
+*.ldf
+*.ndf
+*.trn
+*.sqlce
+*.sqlsettings
+
+# ---------------------------------------------------------------------
+# --- Power BI / Reporting / BI Tools ---
+# ---------------------------------------------------------------------
+*.pbix
+*.pbit
+*.rdl
+*.rdlx
+*.rds
+*.pbids
+*.odc
+*.bim
+*.abf
+
+# ---------------------------------------------------------------------
+# --- Operating System / Misc ---
+# ---------------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+Icon?
+*.lnk
+
+# ---------------------------------------------------------------------
+# --- Publish / Deployment / Output ---
+# ---------------------------------------------------------------------
+publish/
+obj/Release/
+bin/Release/
+out/
+dist/
+artifacts/
+[Aa]pp_Packages/
+*.publish.xml
+*.pubxml
+*.publishproj
+
+# ---------------------------------------------------------------------
+# --- Cloud + Azure / Terraform / ARM / Bicep ---
+# ---------------------------------------------------------------------
+*.tfstate
+*.tfstate.*
+.terraform/
+*.bicep.parameters.json
+*.azureSettings.json
+*.azureDevOps.*
+*.armtemplate.json
+*.template.json
+azconfig.json
+
+# ---------------------------------------------------------------------
+# --- Notebooks / Data Science / Datasets ---
+# ---------------------------------------------------------------------
+*.ipynb_checkpoints
+*.csv
+**/*.csv
+*.tsv
+**/*.tsv
+*.parquet
+**/*.parquet
+*.avro
+**/*.avro
+*.orc
+**/*.orc
+*.xls*
+**/*.xls*
+*.jsonl
+**/*.jsonl
+*.feather
+**/*.feather
+*.arrow
+**/*.arrow
+*.log
+**/*.log
+
+# ---------------------------------------------------------------------
+# --- Archives / Backups ---
+# ---------------------------------------------------------------------
+*.zip
+**/*.zip
+*.7z
+**/*.7z
+*.tar
+**/*.tar
+*.gz
+**/*.gz
+*.rar
+**/*.rar
+*.iso
+**/*.iso
+*.tgz
+**/*.tgz
+
+# ---------------------------------------------------------------------
+# --- Global recursive catch-all (final safeguard) ---
+# ---------------------------------------------------------------------
+# Ensures ignored extensions apply at any depth
+**/*.bak
+**/*.tmp
+**/*.log
+**/*.pdb
+**/*.cache
+**/*.trace
+**/*.csv
+**/*.old
+**/*.swp
+**/*.orig
+**/*.dmp
+**/*.backup
+
+# End of file
