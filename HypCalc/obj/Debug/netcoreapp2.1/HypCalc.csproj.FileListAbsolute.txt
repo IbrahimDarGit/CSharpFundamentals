@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\HypCalc\bin\Debug\netcoreapp2.1\HypCalc.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\HypCalc\bin\Debug\netcoreapp2.1\HypCalc.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\HypCalc\bin\Debug\netcoreapp2.1\HypCalc.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\HypCalc\bin\Debug\netcoreapp2.1\HypCalc.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\HypCalc\bin\Debug\netcoreapp2.1\HypCalc.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\HypCalc\obj\Debug\netcoreapp2.1\HypCalc.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\HypCalc\obj\Debug\netcoreapp2.1\HypCalc.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\HypCalc\obj\Debug\netcoreapp2.1\HypCalc.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\HypCalc\obj\Debug\netcoreapp2.1\HypCalc.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\HypCalc\obj\Debug\netcoreapp2.1\HypCalc.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\HypCalc\obj\Debug\netcoreapp2.1\HypCalc.pdb
