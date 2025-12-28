@@ -59,11 +59,14 @@ namespace _019SubArray
                 Console.WriteLine("Enter marks of student " + (i + 1) + ":");
                 students[i, 3] = Console.ReadLine();
             }
+            
             Console.WriteLine("The entered student details are:");
             for (int i = 0; i < numStud; i++)
             {
                 Console.WriteLine($"Student {i + 1} Name: {students[i, 0]} Surname:{students[i, 1]} Subject: {students[i, 2]} Marks: {students[i, 3]}");
             }
+
+            Console.WriteLine("Cell Print Subject " + students[0, 2]);
 
             Console.ReadLine();
         }
