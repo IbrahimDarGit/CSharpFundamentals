@@ -29,8 +29,8 @@ git add .
 Write-Host "Committing..."
 git commit -m "IbrahimDar Auto update Push on $timestamp"
 
-Write-Host "Pushing to PERSONAL repo..."
-git push personal main
+#Write-Host "Pushing to PERSONAL repo..."
+#git push personal main
 
 Write-Host "Pushing to COLLEGE repo..."
 git push college main
