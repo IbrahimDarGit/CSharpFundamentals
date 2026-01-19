@@ -18,7 +18,7 @@ $ErrorActionPreference = "Stop"
 
 git status
 
-git pull
+git pull college main --allow-unrelated-histories
 
 # Create ISO date-time (safe for git messages)
 $timestamp = Get-Date -Format "yyyyMMMddTHHmmss"
