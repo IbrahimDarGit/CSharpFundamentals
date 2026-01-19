@@ -12,13 +12,12 @@
 # git remote add college  https://github.com/IbrahimAQ235/CSharpFundamentals
 # git remote -v 
 
-
-# Stop on any error
-$ErrorActionPreference = "Stop"
-
 git status
 
 git pull college main --allow-unrelated-histories
+
+# Stop on any error
+$ErrorActionPreference = "Stop"
 
 # Create ISO date-time (safe for git messages)
 $timestamp = Get-Date -Format "yyyyMMMddTHHmmss"
@@ -29,8 +28,8 @@ git add .
 Write-Host "Committing..."
 git commit -m "IbrahimDar Auto update Push on $timestamp"
 
-#Write-Host "Pushing to PERSONAL repo..."
-#git push personal main
+Write-Host "Pushing to PERSONAL repo..."
+git push personal main
 
 Write-Host "Pushing to COLLEGE repo..."
 git push college main
