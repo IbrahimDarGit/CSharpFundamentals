@@ -10,6 +10,7 @@
 # git init 
 # git remote add personal https://github.com/IbrahimDarGit/CSharpFundamentals
 # git remote add college  https://github.com/IbrahimAQ235/CSharpFundamentals
+# git remote remove college  https://github.com/IbrahimAQ235/CSharpFundamentals
 # git remote -v 
 
 git status

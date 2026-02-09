@@ -259,7 +259,9 @@ namespace Hypothesis
                 {0.2992, 0.3783, 0.4438, 0.5155, 0.5614}  // n = 20
             };
 
+
             int row = n - 4;
+            
             int col = 0;
 
             if (sig == 10) col = 0;
