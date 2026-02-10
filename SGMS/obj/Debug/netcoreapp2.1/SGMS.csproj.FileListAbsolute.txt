@@ -1,0 +1,4 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\SGMS\obj\Debug\netcoreapp2.1\SGMS.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\SGMS\obj\Debug\netcoreapp2.1\SGMS.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\SGMS\obj\Debug\netcoreapp2.1\SGMS.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\SGMS\obj\Debug\netcoreapp2.1\SGMS.AssemblyInfo.cs
