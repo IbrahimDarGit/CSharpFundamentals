@@ -47,6 +47,7 @@ namespace SGMS
             Console.WriteLine("Please select an option:");
             Console.WriteLine("1. Add student information");
             Console.WriteLine("2. view student information");
+            Console.WriteLine("3. Delete student information");
             string choice = Console.ReadLine();
 
             if (choice == "1")
@@ -64,11 +65,8 @@ namespace SGMS
                 int mark = int.Parse(Console.ReadLine());
 
 
-                using (StreamWriter writer = new StreamWriter("example.txt"))
-                {
 
-                }
-                using (StreamWriter writer = new StreamWriter("example.txt", true))
+                using (StreamWriter writer = new StreamWriter("student.txt", true))
                 {
                     writer.WriteLine("Student Information");
                     writer.WriteLine("Your name is " + name);
@@ -81,7 +79,7 @@ namespace SGMS
             }
             else if (choice == "2")
             {
-                StreamReader reader = new StreamReader("example.txt");
+                StreamReader reader = new StreamReader("student.txt");
 
                 while (!reader.EndOfStream)
                 {
@@ -90,6 +88,36 @@ namespace SGMS
 
                 reader.Close();
                 Console.ReadLine();
+            }
+            else if (choice == "3")
+            {
+                int x = 0;
+                while (x < 3)
+                {
+                    Console.WriteLine("Enter the Password");
+                    string pin = Console.ReadLine();
+                    if (pin == "Password")
+                    {
+                        x = x + 3;
+                        using (StreamWriter writer = new StreamWriter("student.txt"))
+                        {
+
+                        }
+                        Console.WriteLine("Reports Deleted");
+
+                    }
+                    else if (pin != "Password")
+                    {
+                        Console.WriteLine("Invalid password Try again");
+                        x = x + 1;
+                        if (x == 3)
+                        {
+                            Console.WriteLine("Unauthorised access please leave");
+                            break;
+                        }
+
+                    }
+                }
             }
             else
             {
@@ -120,7 +148,7 @@ namespace SGMS
                 else
                 {
                     total = total + addition;
-                    x++;   // VERY IMPORTANT
+                    x++;   
                 }
             }
 
@@ -140,6 +168,7 @@ namespace SGMS
             Console.WriteLine("Please choose an option:");
             Console.WriteLine("1.Add reports");
             Console.WriteLine("2.View reports");
+            Console.WriteLine("3. Delete reports");
             string dec = Console.ReadLine();
             if (dec == "1")
             {
@@ -156,10 +185,7 @@ namespace SGMS
                 int mark = int.Parse(Console.ReadLine());
 
 
-                using (StreamWriter writer = new StreamWriter("report.txt"))
-                {
 
-                }
                 using (StreamWriter writer = new StreamWriter("report.txt", true))
                 {
                     writer.WriteLine("Student report");
@@ -180,7 +206,36 @@ namespace SGMS
                 }
 
                 reader.Close();
-                Console.ReadLine();
+            }
+            else if (dec == "3")
+            {
+                int x = 0;
+                while (x<3)
+                {
+                    Console.WriteLine("Enter the Password");
+                    string pin = Console.ReadLine();
+                    if (pin=="Password")
+                    {
+                        x = x + 3;
+                        using (StreamWriter writer = new StreamWriter("report.txt"))
+                        {
+
+                        }
+                        Console.WriteLine("Reports Deleted");
+                        
+                    }
+                    else if (pin != "Password")
+                    {
+                        Console.WriteLine("Invalid password Try again");
+                        x = x + 1;
+                        if (x == 3)
+                        {
+                            Console.WriteLine("Unauthorised access please leave");
+                            break;
+                        }
+
+                    }
+                }
             }
             else
             {
