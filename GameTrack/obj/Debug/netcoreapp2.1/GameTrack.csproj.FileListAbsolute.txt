@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\GameTrack\bin\Debug\netcoreapp2.1\GameTrack.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\GameTrack\bin\Debug\netcoreapp2.1\GameTrack.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\GameTrack\bin\Debug\netcoreapp2.1\GameTrack.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\GameTrack\bin\Debug\netcoreapp2.1\GameTrack.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\GameTrack\bin\Debug\netcoreapp2.1\GameTrack.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\GameTrack\obj\Debug\netcoreapp2.1\GameTrack.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\GameTrack\obj\Debug\netcoreapp2.1\GameTrack.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\GameTrack\obj\Debug\netcoreapp2.1\GameTrack.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\GameTrack\obj\Debug\netcoreapp2.1\GameTrack.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\GameTrack\obj\Debug\netcoreapp2.1\GameTrack.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\GameTrack\obj\Debug\netcoreapp2.1\GameTrack.pdb
