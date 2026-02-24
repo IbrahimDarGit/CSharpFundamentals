@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\ReverseW\bin\Debug\netcoreapp2.1\ReverseW.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\ReverseW\bin\Debug\netcoreapp2.1\ReverseW.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\ReverseW\bin\Debug\netcoreapp2.1\ReverseW.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\ReverseW\bin\Debug\netcoreapp2.1\ReverseW.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\ReverseW\bin\Debug\netcoreapp2.1\ReverseW.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\ReverseW\obj\Debug\netcoreapp2.1\ReverseW.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\ReverseW\obj\Debug\netcoreapp2.1\ReverseW.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\ReverseW\obj\Debug\netcoreapp2.1\ReverseW.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\ReverseW\obj\Debug\netcoreapp2.1\ReverseW.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\ReverseW\obj\Debug\netcoreapp2.1\ReverseW.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\ReverseW\obj\Debug\netcoreapp2.1\ReverseW.pdb
