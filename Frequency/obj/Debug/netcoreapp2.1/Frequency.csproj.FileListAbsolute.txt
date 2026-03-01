@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\Frequency\bin\Debug\netcoreapp2.1\Frequency.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\Frequency\bin\Debug\netcoreapp2.1\Frequency.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\Frequency\bin\Debug\netcoreapp2.1\Frequency.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\Frequency\bin\Debug\netcoreapp2.1\Frequency.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\Frequency\bin\Debug\netcoreapp2.1\Frequency.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\Frequency\obj\Debug\netcoreapp2.1\Frequency.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\Frequency\obj\Debug\netcoreapp2.1\Frequency.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\Frequency\obj\Debug\netcoreapp2.1\Frequency.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\Frequency\obj\Debug\netcoreapp2.1\Frequency.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\Frequency\obj\Debug\netcoreapp2.1\Frequency.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\Frequency\obj\Debug\netcoreapp2.1\Frequency.pdb
