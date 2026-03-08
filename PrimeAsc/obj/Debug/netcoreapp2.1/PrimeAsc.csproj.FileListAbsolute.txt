@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\PrimeAsc\bin\Debug\netcoreapp2.1\PrimeAsc.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\PrimeAsc\bin\Debug\netcoreapp2.1\PrimeAsc.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\PrimeAsc\bin\Debug\netcoreapp2.1\PrimeAsc.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\PrimeAsc\bin\Debug\netcoreapp2.1\PrimeAsc.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\PrimeAsc\bin\Debug\netcoreapp2.1\PrimeAsc.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\PrimeAsc\obj\Debug\netcoreapp2.1\PrimeAsc.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\PrimeAsc\obj\Debug\netcoreapp2.1\PrimeAsc.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\PrimeAsc\obj\Debug\netcoreapp2.1\PrimeAsc.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\PrimeAsc\obj\Debug\netcoreapp2.1\PrimeAsc.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\PrimeAsc\obj\Debug\netcoreapp2.1\PrimeAsc.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\PrimeAsc\obj\Debug\netcoreapp2.1\PrimeAsc.pdb
