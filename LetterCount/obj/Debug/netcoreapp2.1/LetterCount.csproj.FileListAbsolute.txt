@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\LetterCount\bin\Debug\netcoreapp2.1\LetterCount.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\LetterCount\bin\Debug\netcoreapp2.1\LetterCount.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\LetterCount\bin\Debug\netcoreapp2.1\LetterCount.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\LetterCount\bin\Debug\netcoreapp2.1\LetterCount.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\LetterCount\bin\Debug\netcoreapp2.1\LetterCount.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\LetterCount\obj\Debug\netcoreapp2.1\LetterCount.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\LetterCount\obj\Debug\netcoreapp2.1\LetterCount.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\LetterCount\obj\Debug\netcoreapp2.1\LetterCount.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\LetterCount\obj\Debug\netcoreapp2.1\LetterCount.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\LetterCount\obj\Debug\netcoreapp2.1\LetterCount.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\LetterCount\obj\Debug\netcoreapp2.1\LetterCount.pdb
