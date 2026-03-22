@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\DoubleLetter\bin\Debug\netcoreapp2.1\DoubleLetter.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\DoubleLetter\bin\Debug\netcoreapp2.1\DoubleLetter.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\DoubleLetter\bin\Debug\netcoreapp2.1\DoubleLetter.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\DoubleLetter\bin\Debug\netcoreapp2.1\DoubleLetter.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\DoubleLetter\bin\Debug\netcoreapp2.1\DoubleLetter.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\DoubleLetter\obj\Debug\netcoreapp2.1\DoubleLetter.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\DoubleLetter\obj\Debug\netcoreapp2.1\DoubleLetter.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\DoubleLetter\obj\Debug\netcoreapp2.1\DoubleLetter.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\DoubleLetter\obj\Debug\netcoreapp2.1\DoubleLetter.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\DoubleLetter\obj\Debug\netcoreapp2.1\DoubleLetter.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\DoubleLetter\obj\Debug\netcoreapp2.1\DoubleLetter.pdb

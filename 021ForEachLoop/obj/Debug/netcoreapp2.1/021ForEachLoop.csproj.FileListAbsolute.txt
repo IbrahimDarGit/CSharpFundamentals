@@ -1,0 +1,11 @@
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\021ForEachLoop\bin\Debug\netcoreapp2.1\021ForEachLoop.deps.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\021ForEachLoop\bin\Debug\netcoreapp2.1\021ForEachLoop.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\021ForEachLoop\bin\Debug\netcoreapp2.1\021ForEachLoop.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\021ForEachLoop\bin\Debug\netcoreapp2.1\021ForEachLoop.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\021ForEachLoop\bin\Debug\netcoreapp2.1\021ForEachLoop.pdb
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\021ForEachLoop\obj\Debug\netcoreapp2.1\021ForEachLoop.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\021ForEachLoop\obj\Debug\netcoreapp2.1\021ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\021ForEachLoop\obj\Debug\netcoreapp2.1\021ForEachLoop.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\021ForEachLoop\obj\Debug\netcoreapp2.1\021ForEachLoop.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\021ForEachLoop\obj\Debug\netcoreapp2.1\021ForEachLoop.dll
+C:\Users\muham\OneDrive\Documents\MyGitRepos\CSharpFundamentals\021ForEachLoop\obj\Debug\netcoreapp2.1\021ForEachLoop.pdb
