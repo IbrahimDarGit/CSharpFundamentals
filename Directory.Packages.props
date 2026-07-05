@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+	<!-- Enable Central Package Management so package versions can be managed in one place -->
+	<ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+</Project>
